@@ -27,4 +27,4 @@ Networking
 To get started, make sure you have a C compiler (such as GCC) installed on your system. You can clone this repository using the following command:
 
 ```shell
-git clone https://github.com/your-username/advanced-operating-system.git
+git clone https://github.com/sandesh300/Adv-Operating-System.git
